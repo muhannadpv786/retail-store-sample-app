@@ -3,8 +3,6 @@
 <!-- GitOps Test: Testing deploy-simple.yml workflow -->
 
 <!-- Test commit -->
-<!-- Test commit -->
-<!-- Test commit -->
 
 | Language | Persistence |
 | -------- | ----------- |
