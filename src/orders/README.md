@@ -1,7 +1,7 @@
 # AWS Containers Retail Sample - Orders Service
 
 <!-- Test commit -->
-
+<!-- Test commit -->
 | Language | Persistence |
 | -------- | ----------- |
 | Java     | MySQL       |
