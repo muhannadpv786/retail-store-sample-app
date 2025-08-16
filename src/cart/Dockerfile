@@ -21,7 +21,7 @@ COPY .mvn .mvn
 COPY mvnw .
 COPY pom.xml .
 
-chmod +x mvnw
+RUN chmod +x mvnw
 RUN ./mvnw dependency:go-offline -B -q
 
 COPY ./src ./src
